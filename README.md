@@ -35,9 +35,3 @@ X ──────────────────────────
 |   ├── .html/.css
 X ──────────────────────────────────────────────────────────── X
 ```
-https://phntmhosting.xyz
-http://fappos.site
-https://fappos.agency
-https://fappos.solutions
-https://phntm.cloud
-https://hextorgbandcmyk.xyz
