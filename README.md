@@ -1,33 +1,90 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
+<!-- TOP ANIMATED WAVE (AUTO DARK/LIGHT) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0f172a,100:1e293b&section=header" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:eeeeee,100:dddddd&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
+</picture>
 
 <h1 align="center">Even Kristoffer</h1>
-<p align="center">Backend Developer • Automation • Creative Tech</p>
+<p align="center">Web Developer • Automation • Creative Technology</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
+<p align="center">
+Building clean systems, useful tools, and scalable digital projects.
+</p>
+
+---
+
+<!-- THIN SEPARATOR -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:334155,100:1f2937&section=header" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:eeeeee,100:dddddd&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
+</picture>
 
 ## 👋 About
-Clean web projects, automation tools, and creative systems.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
+I focus on building **modern web apps, automation tools, and creative digital systems**.  
+My work blends **development, design, and business-oriented problem solving**.
+
+I enjoy:
+- Turning ideas into working platforms  
+- Automating boring or repetitive things  
+- Building clean UIs with real function  
+- Growing projects into real products  
+
+---
+
+<!-- SEPARATOR -->
+<picture>…rect…</picture>
+
+## 🧠 Current Focus
+
+- Scalable web platforms  
+- Internal tools & automation  
+- Startup and e-commerce systems  
+- Performance-focused UI  
+- Creative development pipelines  
+
+---
+
+<!-- SEPARATOR -->
+<picture>…rect…</picture>
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evenkristoffer&repo=REPO1&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github.com/Evenkristoffer/REPO1/actions/workflows/WORKFLOW.yml/badge.svg" />
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
+---
+
+<!-- SEPARATOR -->
+<picture>…rect…</picture>
 
 ## 🧰 Tech Stack
-Python • JS • TS • HTML • CSS • Node • Linux
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
+**Languages**  
+Python · JavaScript · TypeScript  
 
-## 📫 Contact
-even@scootshop.no
+**Web & Runtime**  
+HTML · CSS · Node.js  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:dddddd,100:eeeeee&section=footer" width="100%"/>
+**Automation & Scripting**  
+Bash · Batch · APIs · Bots  
+
+**Tools & Environment**  
+Git · Linux · VS Code  
+After Effects · Premiere Pro · Photoshop  
+
+---
+
+<!-- SEPARATOR -->
+<picture>…rect…</picture>
+
+## ⚙️ Development Style
+
+```bash
+• clean, readable code
+• automation-first workflows
+• performance-focused builds
+• fast iteration
+• real-world usefulness > theory
+
