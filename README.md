@@ -1,37 +1,33 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=https%3A%2F%2Fphntm.cloud)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=https%3A%2F%2Fhextorgbandcmyk.xyz)](https://git.io/typing-svg)
+<h1 align="center">Even Kristoffer</h1>
+<p align="center">Backend Developer • Automation • Creative Tech</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=https%3A%2F%2Fphntmhosting.xyz)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=http%3A%2F%2Ffappos.site)](https://git.io/typing-svg)
+## 👋 About
+Clean web projects, automation tools, and creative systems.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=https%3A%2F%2Ffappos.agency)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=https%3A%2F%2Ffappos.solutions)](https://git.io/typing-svg)
+## 🚀 Featured Projects
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evenkristoffer&repo=REPO1&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/Evenkristoffer/REPO1/actions/workflows/WORKFLOW.yml/badge.svg" />
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
 
+## 🧰 Tech Stack
+Python • JS • TS • HTML • CSS • Node • Linux
 
-![](https://komarev.com/ghpvc/?PhantomGamingdevelopment&label=PROFILE-VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
 
-```
-X ─────────────────────────────────────────────────────────── X
-| ・github.com/Evenkristoffer                      
-| ------------                                                 
-| 📧・Mail even@scootshop.no
-| 📝・17 y
-| WIN / Linux                                                           
-|                                                            
-├──────────────────────────────────────────────────────────── X                                                      
-|・Languages                                                
-│   ├── .Py                                                  
-│   ├── .Js
-│   ├── .Ts
-│   ├──  node.js                                              
-|   ├── .batch                                             
-|   ├── .sh
-|   ├── .html/.css
-X ──────────────────────────────────────────────────────────── X
-```
+## 📫 Contact
+even@scootshop.no
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:dddddd,100:eeeeee&section=footer" width="100%"/>
