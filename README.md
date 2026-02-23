@@ -36,7 +36,7 @@ I enjoy mixing development, design, and business-focused problem solving into re
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evenkristoffer&repo=REPO1&hide_border=true" />
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Evenkristoffer&repo=Clouddrop&hide_border=true)](https://github.com/Evenkristoffer/Clouddrop)
 </p>
 <p align="center">
   <img src="https://github.com/Evenkristoffer/REPO1/actions/workflows/WORKFLOW.yml/badge.svg" />
