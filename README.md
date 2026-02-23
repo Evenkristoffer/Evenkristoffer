@@ -31,11 +31,7 @@ My focus is combining **development, design, and business logic** into real-worl
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Evenkristoffer/Clouddrop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evenkristoffer&repo=Clouddrop&theme=transparent&hide_border=true"/>
-  </a>
-</p>
+[![Clouddrop](https://github-readme-stats.vercel.app/api/pin/?username=Evenkristoffer&repo=Clouddrop&hide_border=true)](https://github.com/Evenkristoffer/Clouddrop)
 
 <!-- Duplicate block and change repo name -->
 
