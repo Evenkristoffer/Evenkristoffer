@@ -1,72 +1,101 @@
 <!-- ================= TOP WAVE ================= -->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0f172a,100:1e293b&section=header" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:eeeeee,100:dddddd&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e293b&section=header"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:eeeeee,100:dddddd&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:eeeeee,100:dddddd&section=header"/>
 </picture>
 
 <h1 align="center">Even Kristoffer</h1>
-<p align="center">Web Developer • Automation • Creative Technology</p>
-<p align="center">Building clean systems, useful tools, and scalable digital projects.</p>
+<p align="center">
+Web Developer • Automation • Creative Technology
+</p>
 
-<!-- ================= LINE ================= -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:334155,100:1f2937&section=header" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:eeeeee,100:dddddd&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:eeeeee,100:dddddd&section=header" width="100%"/>
-</picture>
+<p align="center">
+Building clean systems, scalable platforms, and useful digital products.
+</p>
 
-## 👋 About
-I build modern web platforms, automation tools, and creative digital systems.  
-I enjoy mixing development, design, and business-focused problem solving into real products.
+---
 
-<!-- ================= LINE ================= -->
-<picture>…</picture>
+## 👋 About Me
 
-## 🧠 Current Focus
-- Scalable web platforms  
-- Internal tools & automation  
-- Startup & e-commerce systems  
-- Performance-focused UI  
-- Creative dev pipelines  
+I build modern web platforms, automation tools, and creative digital systems.
+My focus is combining **development, design, and business logic** into real-world products.
 
-<!-- ================= LINE ================= -->
-<picture>…</picture>
+* ⚡ Automation-first mindset
+* 🚀 Performance focused systems
+* 🧠 Problem solving through code
+* 🏗️ Building scalable projects
+
+---
 
 ## 🚀 Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Evenkristoffer&repo=Clouddrop&hide_border=true)](https://github.com/Evenkristoffer/Clouddrop)
+<p align="center">
+  <a href="https://github.com/Evenkristoffer/Clouddrop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evenkristoffer&repo=Clouddrop&theme=transparent&hide_border=true"/>
+  </a>
+</p>
 
-  <img src="https://github.com/Evenkristoffer/REPO1/actions/workflows/WORKFLOW.yml/badge.svg" />
+<!-- Duplicate block and change repo name -->
 
+<p align="center">
+  <a href="https://github.com/Evenkristoffer/YOUR_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evenkristoffer&repo=YOUR_REPO&theme=transparent&hide_border=true"/>
+  </a>
+</p>
 
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evenkristoffer&repo=REPO2&hide_border=true" />
+## 📊 GitHub Stats
 
-  <img src="https://github.com/Evenkristoffer/REPO2/actions/workflows/WORKFLOW.yml/badge.svg" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Evenkristoffer&show_icons=true&hide_border=true&theme=transparent"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evenkristoffer&layout=compact&hide_border=true&theme=transparent"/>
+</p>
 
-
-<!-- ================= LINE ================= -->
-<picture>…</picture>
+---
 
 ## 🧰 Tech Stack
 
-**Languages**  
-Python · JavaScript · TypeScript  
+### Languages
 
-**Web / Runtime**  
-HTML · CSS · Node.js  
+Python • JavaScript • TypeScript
 
-**Automation / Scripting**  
-Bash · Batch · APIs · Bots  
+### Web / Runtime
 
-**Tools**  
-Git · Linux · VS Code  
-After Effects · Premiere Pro · Photoshop  
+HTML • CSS • Node.js
 
-<!-- ================= LINE ================= -->
-<picture>…</picture>
+### Automation
+
+Bash • APIs • Bots • Scripting
+
+### Tools
+
+Git • Linux • VS Code
+After Effects • Premiere Pro • Photoshop
+
+---
 
 ## ⚙️ Development Style
+
 ```bash
-clean code • automation-first • performance focused • fast iteration • real-world systems
+clean code • automation-first • performance focused
+fast iteration • scalable architecture • real systems
+```
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/Evenkristoffer">GitHub</a>
+</p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:1e293b"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:eeeeee,100:dddddd"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:eeeeee,100:dddddd"/>
+</picture>
